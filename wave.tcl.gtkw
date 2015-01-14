@@ -1,0 +1,22 @@
+[*]
+[*] GTKWave Analyzer v3.3.49 (w)1999-2013 BSI
+[*] Wed Jan 14 19:14:30 2015
+[*]
+[dumpfile] "/home/ronan/perso/github/edn_2015_01_12/tb.vcd"
+[dumpfile_mtime] "Wed Jan 14 19:14:03 2015"
+[dumpfile_size] 3148
+[savefile] "/home/ronan/perso/github/edn_2015_01_12/wave.tcl.gtkw"
+[timestart] 0
+[size] 1600 847
+[pos] -1 -1
+*-16.397009 301300 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 213
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 242
+@28
+tb.E
+tb.Y
+tb.clk
+[pattern_trace] 1
+[pattern_trace] 0
